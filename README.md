@@ -36,7 +36,7 @@ Oluşturulan her müşteri ana dizini altında şu standart mimari kurulur:
 ├── 📂 05_Zeyilname_ve_Iptaller       (Adres/plaka/dönem zeyilleri, iptal belgeleri)
 └── 📂 06_Muhasebe_Makbuz_Dekont      (Tahsilat makbuzları, banka dekontları)
 
----
+```
 
 ## ✨ Temel Özellikler
 
